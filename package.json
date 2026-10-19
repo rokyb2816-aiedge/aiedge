@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-cloud-api-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter webhook endpoint for Meta WhatsApp Cloud API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
